@@ -16,4 +16,22 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+}
+.left-login >h1{
+    color: #77ffc0;
+}
+.rigth-login{
+    width: 50vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.card-login{
+    
+}
+.rigth-login > h1{
+
 }
