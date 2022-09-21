@@ -5,7 +5,7 @@ body{
     font-family: 'Noto Sans', sans-serif;
 }
 .main-login{
-    width: 100wv;
+    width: 100vw;
     height: 100vh;
     background-color: #201b2c;
     display:flex;
@@ -23,6 +23,9 @@ body{
 }
 .left-login >h1{
     color: #77ffc0;
+}
+.left-login-img{
+    width: 45vw;
 }
 .rigth-login{
     width: 50vw;
