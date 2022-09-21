@@ -5,4 +5,15 @@ body{
     width: 100wv;
     height: 100vh;
     background-color: #201b2c;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-login{
+    width: 50vw;
+    height: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
